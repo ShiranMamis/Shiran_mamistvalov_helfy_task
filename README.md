@@ -6,12 +6,9 @@
 Getting Started
 First, run the development server:
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+
+#  npm run dev
+
 bun dev
 Open [localhost:4000](http://localhost:5175/) with your browser to see the result.
 
