@@ -15,7 +15,7 @@ First, run the development server:
 #  npm run dev
 
 bun dev
-Open [localhost:4000](http://localhost:5175/) with your browser to see the result.
+Open [[localhost:4000](http://localhost:3000/)] with your browser to see the result.
 
 # My Vite React App
 
