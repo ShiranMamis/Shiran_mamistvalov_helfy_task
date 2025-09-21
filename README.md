@@ -3,6 +3,8 @@
 
 <img width="2693" height="1351" alt="image" src="https://github.com/user-attachments/assets/2480f9f8-5f79-42c4-a7a4-36a80d7e9b6d" />
 
+<img width="2061" height="732" alt="image" src="https://github.com/user-attachments/assets/b975f61c-6bf0-4b2b-a514-672b718a2080" />
+
 Getting Started
 First, run the development server:
 
