@@ -4,6 +4,8 @@
 <img width="2693" height="1351" alt="image" src="https://github.com/user-attachments/assets/2480f9f8-5f79-42c4-a7a4-36a80d7e9b6d" />
 
 <img width="2061" height="732" alt="image" src="https://github.com/user-attachments/assets/b975f61c-6bf0-4b2b-a514-672b718a2080" />
+<img width="3162" height="1321" alt="image" src="https://github.com/user-attachments/assets/d71b28ac-647e-4e9b-a985-6917accfe5ca" />
+<img width="3121" height="1129" alt="image" src="https://github.com/user-attachments/assets/22b1d5b0-81e7-4a76-afcf-42f9d5c7ca3b" />
 
 Getting Started
 First, run the development server:
