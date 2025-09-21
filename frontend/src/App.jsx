@@ -22,6 +22,8 @@ function App() {
     description: "",
     priority: "",
   });
+
+  const [format, setFormat] = useState(true);
   useEffect(() => {
     fetchTasks();
   }, []);
@@ -93,6 +95,8 @@ function App() {
       <div className="text-black ">
         <TaskList
           tasks={tasks}
+          format={format}
+          setFormat={() => setFormat(!format)}
           isAddTask={addingTask}
           newTask={newTask}
           setNewTask={setNewTask}
